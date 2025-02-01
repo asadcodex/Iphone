@@ -1,8 +1,27 @@
-# React + Vite
+# iPhone 15 Website Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Banner](./public/assets/images/s1.png)
 
-Currently, two official plugins are available:
+A stunning recreation of Apple's iPhone 15 Pro website showcasing advanced 3D modeling and smooth animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div align="center">
+  <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
+  <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
+</div>
+
+## Key Features
+- Realistic 3D iPhone models with color variants
+- GSAP-powered smooth animations
+- Custom video carousel
+- Responsive design
+- Performance-optimized 3D rendering
+
+## Tech Stack
+- React.js
+- Three.js (React Three Fiber & Drei)
+- GSAP
+- Vite
+- Tailwind CSS
+
+## Created By
+Asad Raza - Creative Developer
